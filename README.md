@@ -1,6 +1,6 @@
 # hello-world
-FRC respitory
+Random respitory
 
 Hello!
 
-It is cool being able to be around machenery like this. 
+This is my first time using Github!
